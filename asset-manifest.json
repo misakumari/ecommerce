@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.9866fd19.chunk.css",
+    "main.js": "/ecommerce/static/js/main.76c6c00c.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.76c6c00c.chunk.js.map",
+    "runtime-main.js": "/ecommerce/static/js/runtime-main.b674f9d9.js",
+    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.b674f9d9.js.map",
+    "static/js/2.b965389e.chunk.js": "/ecommerce/static/js/2.b965389e.chunk.js",
+    "static/js/2.b965389e.chunk.js.map": "/ecommerce/static/js/2.b965389e.chunk.js.map",
+    "index.html": "/ecommerce/index.html",
+    "precache-manifest.206468be5f9ab71f2a2e71aa50cb39cc.js": "/ecommerce/precache-manifest.206468be5f9ab71f2a2e71aa50cb39cc.js",
+    "service-worker.js": "/ecommerce/service-worker.js",
+    "static/css/main.9866fd19.chunk.css.map": "/ecommerce/static/css/main.9866fd19.chunk.css.map",
+    "static/js/2.b965389e.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.b965389e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ecommerce/static/media/background1.5b27a2f3.jpg",
+    "static/media/crop.jpg": "/ecommerce/static/media/crop.e492df31.jpg",
+    "static/media/floral.jpg": "/ecommerce/static/media/floral.eb7ab848.jpg",
+    "static/media/onepiece.jpg": "/ecommerce/static/media/onepiece.1c83f070.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b674f9d9.js",
+    "static/js/2.b965389e.chunk.js",
+    "static/css/main.9866fd19.chunk.css",
+    "static/js/main.76c6c00c.chunk.js"
+  ]
+}
